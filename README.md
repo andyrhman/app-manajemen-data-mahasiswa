@@ -21,7 +21,7 @@ Untuk menginstall ClosedXML dan System.Data.OleDb
 > NuGet Package Manager 
 > Package Manager Console 
 > copy dan paste kode ini ke terminal 
-NuGet\Install-Package SixLabors.Fonts -Version 1.0.0-beta19
+> NuGet\Install-Package SixLabors.Fonts -Version 1.0.0-beta19
 ```
 ### Untuk menginstall AccessDatabaseEngine
 ```
