@@ -5,6 +5,8 @@ Asslamualaikum Wr. Wb. Perkenalkan saya Andy Rahman disini saya akan menjelaskan
 * Untuk database saya menggunakan Microsoft Access dan menghubungkannya dengan namespace dalam .NET Framework yaitu System.Data.OleDb.
 * Saya juga menggunakan ClosedXML sebuah library .NET untuk memproses file Excel.
 
+![alt text](https://i.imgur.com/EqraHc3.png "Gambar Aplikasi")
+
 ### CATATAN
 Untuk menghindari terjadinya ERROR sebelum Run debug kode ini, saya sarankan anda harus menginstall dependencies seperti ClosedXML, SixLabors.Fonts, AccessDatabaseEngine dan System.Data.OleDb terlebih dahulu.
 Untuk menginstall ClosedXML dan System.Data.OleDb
@@ -33,9 +35,6 @@ Untuk menginstall ClosedXML dan System.Data.OleDb
 Note jika muncul Error di kode anda seperti ini 
 System.InvalidOperationException: 'The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine.' 
 Coba install AccessDatabaseEngine_X64.exe atau AccessDatabaseEngine.exe
-
-### Screenshot Aplikasi
-![alt text](https://i.imgur.com/RfKrZgP.png "Gambar Aplikasi")
 
 ### Link Video Penjelasan
 [Klik Aku](https://youtu.be/KzOeuxc7F4I)
