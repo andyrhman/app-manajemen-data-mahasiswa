@@ -1,4 +1,4 @@
-# Aplikasi manajemen database mahasiswa
+# Aplikasi Manajemen Database Mahasiswa
 
 Asslamualaikum Wr. Wb. Perkenalkan saya Andy Rahman disini saya akan menjelaskan cara kerja aplikasi saya. Aplikasi ini dirancang untuk membantu administrator dalam mengelola dan menganalisis data mahasiswa secara efisien. Melalui dokumentasi ini, Anda akan mempelajari tentang fitur-fitur dan alur kerja aplikasi ini, serta petunjuk bagaimana menggunakannya untuk mencapai tujuan Anda. Di aplikasi ini saya menggunakan NET Framework 4.7.2 dengan dependencies sebagai berikut:
 
