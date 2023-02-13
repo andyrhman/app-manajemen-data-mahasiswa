@@ -2,8 +2,8 @@
 
 Asslamualaikum Wr. Wb. Perkenalkan saya Andy Rahman disini saya akan menjelaskan cara kerja aplikasi saya. Aplikasi ini dirancang untuk membantu administrator dalam mengelola dan menganalisis data mahasiswa secara efisien. Melalui dokumentasi ini, Anda akan mempelajari tentang fitur-fitur dan alur kerja aplikasi ini, serta petunjuk bagaimana menggunakannya untuk mencapai tujuan Anda. Di aplikasi ini saya menggunakan NET Framework 4.7.2 dengan dependencies sebagai berikut:
 
-⋅⋅* Untuk database saya menggunakan Microsoft Access dan menghubungkannya dengan namespace dalam .NET Framework yaitu System.Data.OleDb.
-⋅⋅* Saya juga menggunakan ClosedXML sebuah library .NET untuk memproses file Excel.
+..* Untuk database saya menggunakan Microsoft Access dan menghubungkannya dengan namespace dalam .NET Framework yaitu System.Data.OleDb.
+..* Saya juga menggunakan ClosedXML sebuah library .NET untuk memproses file Excel.
 
 ### CATATAN
 Untuk menghindari terjadinya ERROR sebelum Run debug kode ini, saya sarankan anda harus menginstall dependencies seperti ClosedXML, SixLabors.Fonts, AccessDatabaseEngine dan System.Data.OleDb terlebih dahulu.
